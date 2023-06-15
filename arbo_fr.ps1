@@ -1,5 +1,5 @@
 ﻿
-$racine = "C:\Users\l.baillargeon\racine"
+$racine = "C:\Users\ton.utilisateur\racine"
 
 $ZONES = @("ZONE-A", "ZONE-B", "ZONE-C", "ZONE-D", "ZONE-E", "ZONE-F", "ZONE-G", "ZONE-H", "ZONE-I", "ZONE-J")
 
